@@ -1,3 +1,4 @@
+facebook.com, 523096360728396, DIRECT, c3e20eee3f780d68
 google.com, pub-1349096287274349, DIRECT, f08c47fec0942fa0
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
